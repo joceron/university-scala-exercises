@@ -3,3 +3,6 @@
 // previous program
 // This eliminates the need for an iterator variable and also the chance of
 // an off-by-one error that could cause an out of bounds array access.
+var result = 0
+Range(1, 10).foreach(arg => result += arg)
+println(result)
