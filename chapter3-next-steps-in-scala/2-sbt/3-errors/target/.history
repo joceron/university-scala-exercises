@@ -1,0 +1,32 @@
+compile
+exit
+clean compile
+compile
+run
+set 'maxErrors := 20' performAction
+set "maxErrors := 20" performAction
+set "maxErrors := 20"
+exit
+!
+exit
+clean
+compile
+clear
+exit
+compile
+set maxErrors := 10
+run
+compile
+exit
+compile
+set maxErrors := 1
+compile
+exit
+compile
+set maxErrors := 3
+compile
+exit
+compile
+set maxErrors := 3
+inspect maxErrors
+exit

@@ -1,0 +1,21 @@
+compile
+expit
+exit
+scala
+val a
+exit
+console
+exit
+console
+test
+exit
+clean install
+clean compile
+compile
+test
+console
+test
+console
+test
+~test
+exit
