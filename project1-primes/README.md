@@ -1,19 +1,5 @@
-Project 1: Primes
-===
+This code calculates all the prime numbers below a given one, including the number given.
 
-This first project's goal is to create a program that calculates prime numbers, using the 'Sieve of Erathosthenes'-method.
+To run this program, simply execute the 'run' command followed by the number you want.
 
-The program should take one integer as a parameter, and print all primes up to that number.
-
-Think about what can go wrong, and make your program robust.
-
-Example
----
-
-Running the application as follows:
-
-    sbt "run 25"
-
-should give the following output:
-
-    3, 5, 7, 11, 13, 17, 19, 23
+For example, while on SBT in terminal, type "run 25".
